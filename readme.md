@@ -12,5 +12,8 @@ Propiedades:
 * Un algoritmo debe terminar.
 * Descripcion del resultado o efecto.
 Eficiencia: Se examina como una funcion del numero de elementos a ser procesados.<br>
-Metrica. Complejidad Ciclomatica.<br>
+Metrica. Complejidad Ciclomatica(CC).<br>
 Sirve para determinar la complejidad logica de un diseño y saber la cantidad minima de pruebas para garantizar que cada camino basico fue probado<br>
+CC = Regiones + 1 Regiones: Areas cerradas del codigo<br>
+CC = Nodos Predicados +1 Nodos predicados: Grado de salida 2<br>
+CC = Aristas - Nodos + 2  Aristas: Todas las flechas  Nodos: Todos los simbolos<br>
