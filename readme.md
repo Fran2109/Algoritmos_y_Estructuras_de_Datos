@@ -12,5 +12,5 @@ Propiedades:
 * Un algoritmo debe terminar.
 * Descripcion del resultado o efecto.
 Eficiencia: Se examina como una funcion del numero de elementos a ser procesados.<br>
-Metrica. Complejidad Ciclomatica.
-Sirve para determinar la complejidad logica de un diseño y saber la cantidad minima de pruebas para garantizar que cada camino basico fue probado
+Metrica. Complejidad Ciclomatica.<br>
+Sirve para determinar la complejidad logica de un diseño y saber la cantidad minima de pruebas para garantizar que cada camino basico fue probado<br>
