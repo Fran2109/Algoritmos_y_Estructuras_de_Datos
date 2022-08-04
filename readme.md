@@ -10,7 +10,7 @@ Propiedades:
 * Etapas bien definidas y concretas.
 * Numeros finitos de pasos.
 * Un algoritmo debe terminar.
-* Descripcion del resultado o efecto.
+* Descripcion del resultado o efecto.<br>
 Eficiencia: Se examina como una funcion del numero de elementos a ser procesados.<br>
 Metrica. Complejidad Ciclomatica(CC).<br>
 Sirve para determinar la complejidad logica de un diseño y saber la cantidad minima de pruebas para garantizar que cada camino basico fue probado<br>
