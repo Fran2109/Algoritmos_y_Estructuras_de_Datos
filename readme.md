@@ -11,3 +11,4 @@ Propiedades:
 * Numeros finitos de pasos.
 * Un algoritmo debe terminar.
 * Descripcion del resultado o efecto.
+Eficiencia: Se examina como una funcion del numero de elementos a ser procesados.<br>
