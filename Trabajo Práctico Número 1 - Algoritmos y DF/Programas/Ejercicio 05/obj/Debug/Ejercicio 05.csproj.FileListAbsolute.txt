@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\bin\Debug\Ejercicio 05.exe.config
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\bin\Debug\Ejercicio 05.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\bin\Debug\Ejercicio 05.pdb
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio_05.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio_05.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 1 - Algoritmos y DF\Programas\Ejercicio 05\obj\Debug\Ejercicio 05.pdb
