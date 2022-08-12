@@ -51,6 +51,6 @@ public int sumar(int n)
     if (n == 0)
         return 0;
     else
-        return n + sumar(n - 1);
+        return n - 1 + sumar(n - 1);
 }
 ```
