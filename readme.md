@@ -22,3 +22,21 @@ Sirve para determinar la complejidad logica de un diseño y saber la cantidad mi
 ### Recursividad
 Una funcion que se llama a si misma
 Dos Partes: Caso Base y Caso Recursivo.
+```cSharp
+int factorial (int n)
+{
+  int resultado;
+  if(n==0)
+    resultado = 1;
+  else
+    resultado = n * factorial(n-1);
+  return (resultado);
+}
+int potencia (int base, int exp)
+{
+  if(exp == 0)
+    return 1;
+  else
+    return base * potencia(base, exp-1);
+}
+```
