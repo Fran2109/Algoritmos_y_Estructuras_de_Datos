@@ -40,3 +40,17 @@ int potencia (int base, int exp)
     return base * potencia(base, exp-1);
 }
 ```
+```cSharp
+private void textBox1_TextChanged(object sender, EventArgs e)
+{
+    if(textBox1.Text.Length>0)
+    label1.Text = sumar(int.Parse(textBox1.Text)).ToString();
+}
+public int sumar(int n)
+{
+    if (n == 0)
+        return 0;
+    else
+        return n + sumar(n - 1);
+}
+```
