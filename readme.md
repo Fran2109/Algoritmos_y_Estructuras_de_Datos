@@ -54,3 +54,19 @@ public int sumar(int n)
         return n - 1 + sumar(n - 1);
 }
 ```
+```cSharp
+private void textBox1_TextChanged(object sender, EventArgs e)
+{
+    if(textBox1.Text.Length>0)
+    label1.Text = concat(int.Parse(textBox1.Text));
+}
+public string concat(int n)
+{
+    string respuesta = "";
+    if(n != 0)
+    {
+        respuesta += $"{concat(n - 1)}-{n * 2}";
+    }
+    return respuesta;
+}
+```
