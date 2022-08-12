@@ -18,3 +18,7 @@ Sirve para determinar la complejidad logica de un diseño y saber la cantidad mi
 * CC = Regiones + 1 Regiones: Areas cerradas del codigo
 * CC = Nodos Predicados + 1 Nodos predicados: Grado de salida 2
 * CC = Aristas - Nodos + 2  Aristas: Todas las flechas  Nodos: Todos los simbolos
+## Clase 11/08/2022
+### Recursividad
+Una funcion que se llama a si misma
+Dos Partes: Caso Base y Caso Recursivo.
