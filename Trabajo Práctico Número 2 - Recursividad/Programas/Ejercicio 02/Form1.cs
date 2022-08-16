@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejercicio_01
+namespace Ejercicio_02
 {
     public partial class Form1 : Form
     {
@@ -20,14 +20,16 @@ namespace Ejercicio_01
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             if (textBox1.Text.Length > 0)
-            label1.Text = sumar(int.Parse(textBox1.Text)).ToString();
+            label1.Text = concat(int.Parse(textBox1.Text));
         }
-        public int sumar(int n)
+        public string concat(int n)
         {
-            if (n == 0)
-                return 0;
-            else
-                return n - 1 + sumar(n - 1);
+            string respuesta = "";
+            if (n != 0)
+            {
+                respuesta += $"{concat(n - 1)}-{n * 2}";
+            }
+            return respuesta;
         }
     }
 }
