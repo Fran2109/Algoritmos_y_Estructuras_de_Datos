@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\bin\Debug\Ejercicio 04.exe.config
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\bin\Debug\Ejercicio 04.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio_04.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio_04.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 2 - Recursividad\Programas\Ejercicio 04\obj\Debug\Ejercicio 04.pdb
