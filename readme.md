@@ -40,33 +40,43 @@ int potencia (int base, int exp)
     return base * potencia(base, exp-1);
 }
 ```
+Ejercicio 06
 ```cSharp
 private void textBox1_TextChanged(object sender, EventArgs e)
 {
-    if(textBox1.Text.Length>0)
-    label1.Text = sumar(int.Parse(textBox1.Text)).ToString();
-}
-public int sumar(int n)
-{
-    if (n == 0)
-        return 0;
-    else
-        return n - 1 + sumar(n - 1);
-}
-```
-```cSharp
-private void textBox1_TextChanged(object sender, EventArgs e)
-{
-    if(textBox1.Text.Length>0)
-    label1.Text = concat(int.Parse(textBox1.Text));
-}
-public string concat(int n)
-{
-    string respuesta = "";
-    if(n != 0)
+    try
     {
-        respuesta += $"{concat(n - 1)}-{n * 2}";
+        if (int.TryParse(textBox1.Text, out int n))
+        {
+            label1.Text = sumaPares(n).ToString();
+        }
+        else
+        {
+            label1.Text = "0";
+        }
+    } catch (Exception err){ MessageBox.Show(err.Message); }
+
+}
+
+public int sumaPares(int n)
+{
+    if(n%2 == 1)
+    {
+        throw new Exception("Ingrese un Numero Par");
+    } else if(n == 0)
+    {
+        return 0;
+    } else
+    {
+        return n + sumaPares(n - 2);
     }
-    return respuesta;
 }
 ```
+## Clase 18/08/2022
+### Pilas
+Apilar<br>
+Desapilar<br>
+Leer<br>
+### Colas
+### Listas
+
