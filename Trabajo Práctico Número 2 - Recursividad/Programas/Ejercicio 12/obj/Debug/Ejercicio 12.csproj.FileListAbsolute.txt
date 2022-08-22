@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio_12.Form1.resources
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio_12.Properties.Resources.resources
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\usuario\source\repos\Trabajo Practico 2\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
