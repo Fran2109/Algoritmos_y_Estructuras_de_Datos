@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Hanoy\Hanoy\bin\Debug\Hanoy.exe.config
+C:\Users\usuario\source\repos\Hanoy\Hanoy\bin\Debug\Hanoy.exe
+C:\Users\usuario\source\repos\Hanoy\Hanoy\bin\Debug\Hanoy.pdb
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.Form1.resources
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.Properties.Resources.resources
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.exe
+C:\Users\usuario\source\repos\Hanoy\Hanoy\obj\Debug\Hanoy.pdb

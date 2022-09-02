@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\bin\Debug\Ejercicio 13.exe.config
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\bin\Debug\Ejercicio 13.exe
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\bin\Debug\Ejercicio 13.pdb
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio_13.Form1.resources
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio_13.Properties.Resources.resources
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.exe
+C:\Users\usuario\source\repos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 13\obj\Debug\Ejercicio 13.pdb
