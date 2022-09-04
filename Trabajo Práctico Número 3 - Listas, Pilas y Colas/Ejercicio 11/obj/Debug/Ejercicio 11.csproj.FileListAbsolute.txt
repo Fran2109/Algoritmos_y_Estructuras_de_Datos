@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio_11.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio_11.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
