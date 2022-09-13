@@ -15,6 +15,7 @@ namespace Ejercicio_16
     {
         Cola colaPendientes;
         Cola colaPagos;
+        string textACobrar, textCobrados;
         public Form1()
         {
             InitializeComponent();
@@ -23,12 +24,15 @@ namespace Ejercicio_16
         {
             colaPendientes = new Cola();
             colaPagos = new Cola();
-            Mostrar(colaPendientes, listBox1);
-            Mostrar(colaPagos, listBox2);
+            textACobrar = "Cantidad de Clientes a Cobrar";
+            textCobrados = "Cantidad de Clientes Cobrados";
+            Mostrar(colaPendientes, listBox1, label1, textACobrar);
+            Mostrar(colaPagos, listBox2, label2, textCobrados);
         }
-        private void Mostrar(Cola cola, ListBox listBox)
+        private void Mostrar(Cola cola, ListBox listBox, Label label, string text)
         {
             Cola aux = new Cola();
+            int cant = 0;
             listBox.Items.Clear();
             while(cola.Ver()!=null) aux.Encolar(cola.Desencolar());
             while(aux.Ver()!=null)
@@ -36,7 +40,9 @@ namespace Ejercicio_16
                 Nodo nodo = aux.Desencolar();
                 cola.Encolar(nodo);
                 listBox.Items.Add($"{nodo.Id}: {nodo.Monto}");
+                cant++;
             }
+            label.Text = $"{text}: {cant}";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -46,7 +52,7 @@ namespace Ejercicio_16
                 int id = int.Parse(Interaction.InputBox("Id"));
                 float monto = float.Parse(Interaction.InputBox("Monto"));
                 colaPendientes.Encolar(id, monto);
-                Mostrar(colaPendientes, listBox1);
+                Mostrar(colaPendientes, listBox1, label1, textACobrar);
             } catch (Exception err) { MessageBox.Show(err.Message); }
         }
 
@@ -55,8 +61,8 @@ namespace Ejercicio_16
             try
             {
                 colaPagos.Encolar(colaPendientes.Desencolar());
-                Mostrar(colaPendientes, listBox1);
-                Mostrar(colaPagos, listBox2);
+                Mostrar(colaPendientes, listBox1, label1, textACobrar);
+                Mostrar(colaPagos, listBox2, label2, textCobrados);
             }
             catch (Exception err) { MessageBox.Show(err.Message); }
         }
