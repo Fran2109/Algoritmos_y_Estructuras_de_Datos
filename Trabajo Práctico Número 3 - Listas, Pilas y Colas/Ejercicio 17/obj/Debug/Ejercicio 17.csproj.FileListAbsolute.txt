@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.exe.config
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.exe
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.pdb
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio_17.Form1.resources
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio_17.Properties.Resources.resources
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.exe
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.pdb

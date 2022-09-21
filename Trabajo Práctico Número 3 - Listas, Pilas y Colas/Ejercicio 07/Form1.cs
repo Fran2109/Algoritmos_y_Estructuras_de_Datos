@@ -24,9 +24,9 @@ namespace Ejercicio_07
             lista.InsertarFinal(new TelemLista(DateTime.Parse("05/05/2019"), 4, 890, "Deposito"));
             lista.InsertarFinal(new TelemLista(DateTime.Parse("18/02/2015"), 3, 587, "Extraccion"));
             lista.InsertarFinal(new TelemLista(DateTime.Parse("21/09/2010"), 1, 463, "Deposito"));
-            lista.InsertarFinal(new TelemLista(DateTime.Parse("21/10/2011"), 2, 789, "Deposito"));
             lista.InsertarFinal(new TelemLista(DateTime.Parse("21/09/2019"), 5, 546, "Extraccion"));
             lista.InsertarFinal(new TelemLista(DateTime.Parse("22/10/2019"), 6, 89, "Deposito"));
+            lista.InsertarFinal(new TelemLista(DateTime.Parse("21/10/2011"), 2, 789, "Deposito"));
             Mostrar();
         }
         private void Mostrar()

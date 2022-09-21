@@ -88,13 +88,13 @@ namespace Ejercicio_07
         }
         public void Ordenar()
         {
-            for (int i = 1; i < Cantidad(); i++)
+            for (int i = Cantidad(); i > 0; i--)
             {
-                for (int j = i + 1; j <= Cantidad(); j++)
+                for(int j = Cantidad() - 1; j > 0; j--)
                 {
-                    if (DateTime.Compare(BuscarPorPosicion(i).Fecha, BuscarPorPosicion(j).Fecha) > 0)
+                    if (DateTime.Compare(BuscarPorPosicion(j).Fecha, BuscarPorPosicion(j+1).Fecha) > 0)
                     {
-                        Swap(i, j);
+                        Swap(j);
                     }
                 }
             }
@@ -108,20 +108,32 @@ namespace Ejercicio_07
             }
             return aux;
         }
-        private void Swap(int pos1, int pos2)
+        private void Swap(int pos)
         {
-            Nodo aux1, aux2;
-            if (pos1 == 1 && pos2 == Cantidad())
+            Nodo aux, aux2, aux3;
+            if(pos == 1)
             {
-                aux1 = CentinelaPrimero.Siguiente;
-                aux2 = ObtenerPorPosicion(pos2 - 1);
-                CentinelaPrimero.Siguiente = aux2.Siguiente;
-                CentinelaPrimero.Siguiente.Siguiente = aux1.Siguiente;
-                aux2.Siguiente = aux1;
-                aux1.Siguiente = null;
+                aux = CentinelaPrimero.Siguiente.Siguiente;
+                CentinelaPrimero.Siguiente.Siguiente = aux.Siguiente;
+                aux.Siguiente = CentinelaPrimero.Siguiente;
+                CentinelaPrimero.Siguiente = aux;
+            } 
+            else if(pos == Cantidad() - 1)
+            {
+                aux = ObtenerPorPosicion(Cantidad() - 1);
+                aux2 = ObtenerPorPosicion(Cantidad() - 2);
+                aux2.Siguiente = UltimoNodo();
+                UltimoNodo().Siguiente = aux;
+                aux.Siguiente = null;
             }
-            else if (pos1 != 1 && pos2 == Cantidad())
+            else 
             {
+                aux3 = ObtenerPorPosicion(pos - 1);
+                aux2 = ObtenerPorPosicion(pos + 1);
+                aux = ObtenerPorPosicion(pos);
+                aux.Siguiente = aux2.Siguiente;
+                aux3.Siguiente = aux2;
+                aux2.Siguiente = aux;
 
             }
         }

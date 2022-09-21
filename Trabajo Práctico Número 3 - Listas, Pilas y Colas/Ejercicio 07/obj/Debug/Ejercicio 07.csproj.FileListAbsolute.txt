@@ -9,3 +9,14 @@ C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Prá
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.CoreCompileInputs.cache
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.exe
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.pdb
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\bin\Debug\Ejercicio 07.exe.config
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\bin\Debug\Ejercicio 07.exe
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\bin\Debug\Ejercicio 07.pdb
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio_07.Form1.resources
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio_07.Properties.Resources.resources
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.exe
+C:\Users\franc\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 07\obj\Debug\Ejercicio 07.pdb
