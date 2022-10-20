@@ -20,3 +20,14 @@ C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Prá
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.exe
 C:\Users\Francisco Filosi\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.pdb
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.exe.config
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.exe
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\bin\Debug\Ejercicio 17.pdb
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio_17.Form1.resources
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio_17.Properties.Resources.resources
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.exe
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Trabajo Práctico Número 3 - Listas, Pilas y Colas\Ejercicio 17\obj\Debug\Ejercicio 17.pdb

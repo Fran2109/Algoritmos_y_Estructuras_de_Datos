@@ -1,0 +1,11 @@
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\bin\Debug\Arbol.exe
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\bin\Debug\Arbol.pdb
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.exe
+C:\Users\Francisco\Desktop\Algoritmos_y_Estructuras_de_Datos\Arbol\obj\Debug\Arbol.pdb
